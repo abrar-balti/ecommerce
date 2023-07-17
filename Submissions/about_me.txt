@@ -1,0 +1,50 @@
+Name: Waqar Ahmed
+
+Background:
+Aresult-oriented individual with 4+ years of background in creating and executing innovative software
+solutions to enhance business productivity. Highly experienced in all aspects of the software development
+lifecycle and end-to-end project management, from concept through to develop and delivery. Consistently
+recognized as a hands-on and competent leader, skilled at coordinating cross-functional teams in a
+fast-paced, deadline-driven environment to steer timely project completion within budgetary constraints.
+
+
+Building things is my passion, sometimes that means a small tool that’s useful to me, or a more ambitious
+product that can be more broadly useful to others. From scratch to production ready software we work
+together with commitment and love sharing knowledge, experiences, best practices and ideas.
+
+Skills:
+● Experienced working on Multiple Node.js frameworks, Express.js, Nest.js and Meteor.js and
+building innovative and complex applications.
+● Great experience of working on Frontend Angular Framework. Proficiency on Creating
+self-contained, reusable, and testable modules and components.
+● Deep knowledge of Angular, reactive programing(RxJS) and commonly used modules based on
+extensive work experience.
+● Extensive exposure of working on blockchain technology. Worked as a contributor to open source
+blockchain wallets and trading platforms.
+● Strong working background with Web3, EVM based Blockchains like Ethereum, Tron, Polygon
+and Klaytn.
+● Expertise in Development and deployment of Smart contracts, ERC-20 and ERC-721
+tokens(NFTs).
+● Blockchain wallets, Trading bots, centralized exchanges, Blockchain Integration and blockchain
+explorer development are my core experiences in blockchain technology.
+● Expertise in Typescript includes Generics, Decorators, Namespaces, Module, Middlewares,
+Interfaces, Classes, Enums, Dependency injection, Routes, and Custom Types.
+● Extensive experience of about 4+ years working on relational and non-relational databases:
+postgresql, mysql, mongodb.
+● Experienced working on In-memory databases for real time applications and services. I worked
+with the following in memory databases: Redis, SQLite, LevelDB.
+● Highly experienced with multiple object relational mappers i.e TypeORM, Sequelize and
+Mongoose.
+
+Interests:
+In addition to my tech interests, I am an avid learner and enjoy keeping up with the latest developments 
+in the world of web, frontend and backend technologies.I find great satisfaction in mastering new tools and technologies and applying them to real-world scenarios.
+
+Beyond tech, I have a passion for outdoor activities, including hiking and cycling. These activities not only help me stay physically fit but also provide a much-needed mental refresh. I also love exploring different cuisines and experimenting with cooking new dishes.
+
+GitHub Repository:
+Feel free to explore my journey and projects on my GitHub repository: [GitHub URL](https://github.com/Xgrid-Bootcamp/app-bootcamp-2023)
+
+I am thrilled to be a part of the App Bootcamp 2023 and look forward to collaborating with like-minded individuals, contributing to the community, and continuing my growth as a MERN Stack professional.
+
+Let's connect and build amazing things together!
