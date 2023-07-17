@@ -5,11 +5,11 @@ The objective of this exercise is to assess your proficiency in forking a GitHub
 
 ## Instructions:
 
-* Fork the "app-bootcamp-2023" repository: Visit the repository at [repository URL](https://github.com/Xgrid-Engineering/app-bootcamp-2023/) and fork it to your own GitHub account.
+* Fork the "app-bootcamp-2023" repository: Visit the repository at [repository URL](https://github.com/Xgrid-Bootcamp/app-bootcamp-2023/) and fork it to your own GitHub account.
 * Add a text file about yourself: In your forked repository, create a new text file named "about_me.txt" in the submissions folder.
 * In this file, provide a brief description about yourself, including your background, skills, and interests. Feel free to be creative and showcase your personality.
 * Create a Pull Request: Initiate a pull request from your forked repository to the "dev" branch of the main "app-bootcamp-2023" repository.
-* Ensure that your pull request title and description are clear and descriptive, and that you follow the [Pull-Request-Template](https://github.com/Xgrid-Engineering/app-bootcamp-2023/blob/main/.github/PULL_REQUEST_TEMPLATE/pull-request-template.md)
+* Ensure that your pull request title and description are clear and descriptive, and that you follow the [Pull-Request-Template](https://github.com/Xgrid-Bootcamp/app-bootcamp-2023/blob/main/.github/PULL_REQUEST_TEMPLATE/pull-request-template.md)
 * Follow the review process: Actively monitor your pull request for any feedback or comments from the reviewers.
 * Address the feedback by making necessary changes to your "about_me.txt" file or resolving any other issues raised during the review process.
 * Engage in constructive discussions with the reviewers to improve your submission.
@@ -21,7 +21,7 @@ The objective of this exercise is to assess your proficiency in forking a GitHub
 ## Resources:
 * Git documentation on resolving merge conflicts: [Link to Git documentation](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
 * GitHub documentation on pull requests: [Link to GitHub documentation on pull requests](https://www.atlassian.com/git/tutorials/making-a-pull-request)
-* Pull request template: [Link to pull request template](https://github.com/Xgrid-Engineering/app-bootcamp-2023/blob/main/.github/PULL_REQUEST_TEMPLATE/pull-request-template.md)
+* Pull request template: [Link to pull request template](https://github.com/Xgrid-Bootcamp/app-bootcamp-2023/blob/main/.github/PULL_REQUEST_TEMPLATE/pull-request-template.md)
 
 ## Evaluation:
 You will be evaluated based on your ability to:

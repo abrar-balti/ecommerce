@@ -8,7 +8,7 @@ This file explains how you'll be working within your forked and central reposito
 
 ---
 
-- First of all, Fork your target repo e.g. [app-bootcamp-2023](https://github.com/Xgrid-Engineering/app-bootcamp-2023)
+- First of all, Fork your target repo e.g. [app-bootcamp-2023](https://github.com/Xgrid-Bootcamp/app-bootcamp-2023)
 - Create a folder with your name inside submissions folder, and in the folder of your name create the sprint folder. e.g submissions/saad/sprint1/.
 - Rest of the work will be done in Forked Repository within your folders
 - After completing the code, a PR needs to be created from the fork respository to the dev app-bootcamp-2023
