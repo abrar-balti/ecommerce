@@ -1,22 +1,14 @@
 Name: Waqar Ahmed
 
 Summary:
-Highly skilled Senior Backend Developer with over 8 years of experience in designing, developing, and maintaining scalable and robust web applications.
- Strong expertise in backend technologies, database management, and API integrations.
- Proven ability to lead development teams and collaborate effectively with cross-functional stakeholders.
-Committed to delivering high-quality code and optimizing application performance.
+Highly skilled Senior Fullstack Developer with over 5 years of experience in designing and developing web applications. 
+Proficient in a wide range of technologies, including JavaScript, HTML/CSS, Python, and SQL. 
+Strong expertise in both frontend and backend development, with a proven track record of delivering high-quality solutions. 
+Excellent problem-solving abilities and a collaborative mindset, with a passion for creating efficient and scalable applications.
+
 Skills:
 
 Frontend Development:
-Programming Languages: Python, Java, C++
-Web Technologies: Django, Flask, Node.js, Express.js
-Database Systems: MySQL, PostgreSQL, MongoDB
-API Development and Integration
-Cloud Platforms: AWS, Azure
-Version Control: Git, SVN
-Agile Development Methodologies
-Problem-solving and Troubleshooting
-Team Leadership and Collaboration
 
 JavaScript (ES6+), TypeScript
 React, Angular, Vue.js
